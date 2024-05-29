@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60525522562",
+    "project_id": "rungrosh-app",
+    "storage_bucket": "rungrosh-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60525522562:android:6082c605cda21965750e9b",
+        "android_client_info": {
+          "package_name": "com.example.ecomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSRWRLWbdUhIecbjyU782WiYolzr7EyJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60525522562:android:f67f7c52132f8ce2750e9b",
+        "android_client_info": {
+          "package_name": "com.example.rungrosh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSRWRLWbdUhIecbjyU782WiYolzr7EyJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
